@@ -1,0 +1,28 @@
+
+Pinging 47.41.198.227 with 34 bytes of data:
+Reply from 47.41.198.227: bytes=34 time=74ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=83ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=77ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=78ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=80ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=79ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=73ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=77ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=76ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=74ms TTL=48
+Reply from 47.41.198.227: bytes=34 time=75ms TTL=48
+
+Ping statistics for 47.41.198.227:
+    Packets: Sent = 11, Received = 11, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 73ms, Maximum = 83ms, Average = 76ms
+
+Pinging 152.26.89.248 with 1000 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 152.26.89.248:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
